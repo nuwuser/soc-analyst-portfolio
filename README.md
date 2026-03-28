@@ -26,7 +26,8 @@ Aspiring SOC Analyst with hands-on experience in security investigations, SIEM a
 * Mapped activity to MITRE ATT&CK techniques
 * Recommended remediation actions
 
-[View Project](./Incident-Reports/Phishing-Incident-Investigation.md)
+### Phishing Campaign Investigation (Multi-Stage Incident)
+👉 [View Full Investigation](./Incident-Reports/Phishing-Unfolding-Incident.md)
 
 ---
 
