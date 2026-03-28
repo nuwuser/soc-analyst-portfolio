@@ -6,6 +6,14 @@ Aspiring SOC Analyst with hands-on experience in security investigations, SIEM a
 
 ---
 
+## Key Highlight
+
+Investigated a multi-stage phishing incident involving malware delivery and post-exploitation activity, achieving:
+- 94% true positive identification rate
+- 93% false positive accuracy
+- 29 alerts triaged in a simulated SOC environment
+---
+
 ## Skills & Tools
 
 * SIEM: Splunk
