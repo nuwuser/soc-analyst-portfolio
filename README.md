@@ -35,7 +35,22 @@ Investigated a multi-stage phishing incident involving malware delivery and post
 * Recommended remediation actions
 
 ### Phishing Campaign Investigation (Multi-Stage Incident)
-👉 [View Full Investigation](./Incident-Reports/Phishing-Unfolding-Incident.md)
+-> [View Full Investigation](./Incident-Reports/Phishing-Unfolding-Incident.md)
+
+### Brute Force Incident Investigation
+* Reviewed Authentication Logs
+  * The authentication records showed a burst of failed login attempts targeting a single user account, followed by a successful login from the same IP address.
+* Identified Attack Pattern
+  * The sequence of repeated failures followed by success strongly suggested password guessing or brute force activity rather than normal user error.
+* Evaluated Timing
+    * The login activity occurred at approximately 02:14 AM, which is outside standard working hours for most corporate users and increases suspicion.
+* Assessed Source IP Context
+    * The source IP was treated as suspicious because it was external, repeated rapidly across authentication attempts, and was tied directly to the successful login event.
+* Compared Against Normal User Behaviour
+    * A legitimate user may occasionally mistype a password once or twice, but eight failed attempts followed by a success from the same IP in under a minute is not typical behavior.
+
+### Brute Force Investigation
+ -> [View Full Investigation]
 
 ---
 
