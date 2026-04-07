@@ -1,6 +1,6 @@
 
-# Brute Force Attack Investigation
-# Overview
+#Brute Force Attack Investigation
+#Overview
 
 ---
 
@@ -8,13 +8,13 @@ This project documents a simulated Security Operations Center (SOC) investigatio
 
 This case study demonstrates core SOC analyst skills including alert triage, log analysis, investigative reasoning, and incident response recommendations.
 
-###Scenario
+#Scenario
 
 At approximately 02:14 AM, multiple failed login attempts were detected against a corporate VPN account. Shortly afterward, a successful login was recorded from the same external IP address.
 
 The activity was flagged as suspicious due to the volume of failed attempts, the timing of the login, and the successful authentication after repeated failures.
 
-##Simulated Alert
+## Simulated Alert
 Alert Name: Possible Brute Force Attack Against VPN Account
 Severity: Medium-High
 Detection Logic: Multiple failed login attempts followed by a successful login from the same IP within a short time window
