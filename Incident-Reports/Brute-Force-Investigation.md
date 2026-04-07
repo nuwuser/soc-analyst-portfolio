@@ -1,7 +1,4 @@
 
-Ahhh yep—I see exactly what happened. GitHub can be picky depending on how it’s pasted. Let’s fix it properly.
-
-Below is a **clean, GitHub-friendly Markdown version** using `#`, `###`, `*`, and `---` that will render correctly when pasted into a `README.md`.
 
 ---
 
@@ -120,7 +117,7 @@ However:
 * 8 rapid failures
 * Followed by a success
 
-➡️ Strong indicator of automated or persistent attack behavior
+> Strong indicator of automated or persistent attack behavior
 
 ---
 
