@@ -50,7 +50,7 @@ Investigated a multi-stage phishing incident involving malware delivery and post
     * A legitimate user may occasionally mistype a password once or twice, but eight failed attempts followed by a success from the same IP in under a minute is not typical behavior.
 
 ### Brute Force Investigation
- -> [View Full Investigation]
+ -> [View Full Investigation](./Incident-Reports/Brute-Force-Investigation.md)
 
 ---
 
